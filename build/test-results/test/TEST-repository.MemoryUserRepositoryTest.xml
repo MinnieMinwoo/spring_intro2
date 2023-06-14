@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.MemoryUserRepositoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-13T08:23:09" hostname="tosagubug-jeonmun.local" time="0.007">
+  <properties/>
+  <testcase name="계정저장_이름중복()" classname="repository.MemoryUserRepositoryTest" time="0.001"/>
+  <testcase name="계정찾기_이름()" classname="repository.MemoryUserRepositoryTest" time="0.001"/>
+  <testcase name="계정찾기_전체()" classname="repository.MemoryUserRepositoryTest" time="0.001"/>
+  <testcase name="계정저장()" classname="repository.MemoryUserRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
